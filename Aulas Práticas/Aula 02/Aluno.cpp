@@ -30,7 +30,7 @@ void Aluno::imprimir_informacoes(){
 			break;
 		
 		case 2:
-			cout << "Bolsista: Não" << endl;
+			cout << "Bolsista: Nao" << endl;
 			break;
 		
 		case 3:
